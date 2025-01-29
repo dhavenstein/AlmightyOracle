@@ -1,0 +1,2 @@
+# AlmightyOracle
+Almighty Oracle lesson :)
